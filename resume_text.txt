@@ -1,0 +1,72 @@
+TSEWANG LHAMO
+New York, NYC ∙ (917) 306-7384 ∙ tsewanglha3@gmail.com ∙ U.S. Citizen
+
+WORK EXPERIENCE
+OpenSesame, Portland, OR
+Product Management Intern
+Jun 2024 – Aug 2024
+● Led cross-functional product discovery to remove a legacy platform feature, collaborating closely with engineering,
+product, and leadership teams to enhance operational efficiency.
+● Authored a comprehensive research document on AI usage by competitors, presenting findings to senior leadership
+and guiding the development of a copilot-type product as part of the long-term strategy.
+● Regularly facilitated communication between Product and Engineering teams, reporting critical updates to senior
+leadership, and preparing presentations to ensure alignment on key product initiatives.
+● Managed day-to-day product execution within an Agile environment, participating in sprint planning, daily
+stand-ups, and backlog prioritization to support feature development and urgent incident response.
+● Led backend feature development efforts within the software development lifecycle, maintaining domain
+functionality using Agile methodologies and collaborating with cross-functional teams to drive product
+improvements.
+NÜTRL Vodka, Madison, WI
+Brand Ambassador
+Feb 2025 – Present
+● Represent the NÜTRL brand at bars, liquor stores, and campus events, leading 2–4 weekly activations and engaging
+150–250+ consumers per shift to build brand awareness and drive product trial.
+● Drove 30%+ conversion rates by influencing purchase decisions through energetic, informative conversations and
+targeted sampling based on consumer feedback.
+● Collaborated with regional teams to submit post-activation reports via Network Ninja, including product insights,
+photos, and engagement metrics to support data-driven marketing strategy.
+Global Tibetan Professionals Network (GTPN), New York, NY
+Data and Web Development Intern
+Jun 2023 – Aug 2023
+●
+Pioneered the coordination of an inaugural Himalayan Hackathon, uniting 40+ participants from over 3 countries.
+●
+Employed advanced web scraping techniques with Selenium to construct a robust Tibetan professional database,
+amassing 10k+ profiles.
+●
+Spearheaded a Hackathon project using Python and web scraping, culminating in the creation of 'Bazaar', a
+standalone website that aggregates content from multiple sources.
+
+EDUCATION
+University of Wisconsin-Madison, Madison, WI
+Sep 2021 – May 2025
+Bachelor of Science in Computer Science
+Coursework:
+Data Visualization, Human-Computer Interaction, Building User Interfaces, Computer Programming, Computer
+Engineering, Discrete Mathematics, Machine Organization and Programming, Elementary Matrix and Linear
+Algebra, Artificial Intelligence, Foundations of Mobile Systems and Applications, Algorithms, Big Data Systems
+
+LEADERSHIP ACTIVITIES
+Himalayan COVID-19 Task Force, New York, NY
+Technical Community Coordinator & Co-Founder
+Mar 2020 – Jun 2021
+●
+Engineered and co-founded a comprehensive digital infrastructure for the Himalayan COVID-19 Task Force,
+including a user-friendly directory of 100+ healthcare professionals, a tailored Content Management System (CMS)
+for disseminating translated COVID-19 guidelines, and advanced data analysis to optimize mental health
+workshops, significantly enhancing resource accessibility and community outreach.
+
+SKILLS
+●
+
+Programming Languages: C, Java, Python, SQL, JavaScript, HTML, CSS, Kotlin.
+
+●
+
+Tools: Tableau, Git Bash, DevOps, Oracle/MySQL, Linux, Miro, Jira, Android Studio.
+
+●
+
+Skills: Data & Product Analytics, Agile (Scrum), Database Management, Version Control, Full-Stack Development.
+
+

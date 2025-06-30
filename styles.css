@@ -22,13 +22,13 @@ body {
     padding: 0 20px;
 }
 
-/* Lavender Purple Color Scheme */
+/* Golden Yellow Color Scheme */
 :root {
-    --primary-purple: #d7bde2;
-    --secondary-purple: #e8d5ed;
-    --highlight-purple: #f4ecf7;
-    --light-purple: #faf8fb;
-    --dark-purple: #c19bd1;
+    --primary-purple: #fbd26d;
+    --secondary-purple: #fcdd8a;
+    --highlight-purple: #fde8a7;
+    --light-purple: #fef9f0;
+    --dark-purple: #f7c851;
 }
 
 /* Navigation */
@@ -130,8 +130,8 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(135deg, var(--primary-purple) 0%, var(--secondary-purple) 100%);
-    color: white;
+    background: linear-gradient(135deg, #fef7cd 0%, var(--primary-purple) 40%, var(--secondary-purple) 70%, #fef9f0 100%);
+    color: #1f2937;
     padding-top: 80px;
 }
 
@@ -153,20 +153,20 @@ body {
 }
 
 .highlight {
-    color: var(--highlight-purple);
+    color: #8b5a2b;
 }
 
 .hero-subtitle {
     font-size: 1.5rem;
     font-weight: 500;
     margin-bottom: 1rem;
-    color: #e5e7eb;
+    color: #374151;
 }
 
 .hero-description {
     font-size: 1.1rem;
     margin-bottom: 2rem;
-    color: #d1d5db;
+    color: #4b5563;
     line-height: 1.7;
 }
 
@@ -187,24 +187,24 @@ body {
 }
 
 .btn-primary {
-    background: var(--highlight-purple);
-    color: #1f2937;
+    background: #1f2937;
+    color: white;
 }
 
 .btn-primary:hover {
-    background: var(--primary-purple);
+    background: #374151;
     color: white;
 }
 
 .btn-secondary {
     background: transparent;
-    color: white;
-    border: 2px solid white;
+    color: #1f2937;
+    border: 2px solid #1f2937;
 }
 
 .btn-secondary:hover {
-    background: white;
-    color: var(--primary-purple);
+    background: #1f2937;
+    color: white;
 }
 
 .hero-image {
@@ -219,7 +219,7 @@ body {
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid var(--highlight-purple);
-    box-shadow: 0 4px 24px rgba(215, 189, 226, 0.15);
+    box-shadow: 0 4px 24px rgba(251, 210, 109, 0.15);
     display: block;
     margin: 0 auto;
     background: var(--light-purple);
@@ -791,7 +791,7 @@ html {
     border-radius: 20px;
     font-size: 1rem;
     font-weight: 500;
-    box-shadow: 0 2px 8px rgba(215, 189, 226, 0.08);
+    box-shadow: 0 2px 8px rgba(251, 210, 109, 0.08);
     transition: background 0.3s;
     margin-bottom: 0.5rem;
 }

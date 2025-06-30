@@ -22,13 +22,13 @@ body {
     padding: 0 20px;
 }
 
-/* Pink Color Scheme */
+/* Purple Color Scheme */
 :root {
-    --primary-pink: #ec4899;
-    --secondary-pink: #f472b6;
-    --highlight-pink: #f9a8d4;
-    --light-pink: #fce7f3;
-    --dark-pink: #be185d;
+    --primary-purple: #8b5cf6;
+    --secondary-purple: #a78bfa;
+    --highlight-purple: #c4b5fd;
+    --light-purple: #f3f4f6;
+    --dark-purple: #7c3aed;
 }
 
 /* Navigation */
@@ -55,13 +55,13 @@ body {
 .nav-logo a {
     font-size: 1.5rem;
     font-weight: 700;
-    color: var(--primary-pink);
+    color: var(--primary-purple);
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .nav-logo a:hover {
-    color: var(--secondary-pink);
+    color: var(--secondary-purple);
 }
 
 .nav-menu {
@@ -79,7 +79,7 @@ body {
 }
 
 .nav-link:hover {
-    color: var(--primary-pink);
+    color: var(--primary-purple);
 }
 
 .nav-link::after {
@@ -89,7 +89,7 @@ body {
     height: 2px;
     bottom: -5px;
     left: 0;
-    background-color: var(--primary-pink);
+    background-color: var(--primary-purple);
     transition: width 0.3s ease;
 }
 
@@ -101,14 +101,14 @@ body {
 .nav-link:active,
 .nav-link:focus,
 .nav-link.active:visited {
-    color: var(--primary-pink) !important;
+    color: var(--primary-purple) !important;
 }
 
 .nav-link.active::after,
 .nav-link:active::after,
 .nav-link:focus::after,
 .nav-link.active:visited::after {
-    background-color: var(--primary-pink) !important;
+    background-color: var(--primary-purple) !important;
 }
 
 .hamburger {
@@ -130,7 +130,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(135deg, var(--primary-pink) 0%, var(--secondary-pink) 100%);
+    background: linear-gradient(135deg, var(--primary-purple) 0%, var(--secondary-purple) 100%);
     color: white;
     padding-top: 80px;
 }
@@ -153,7 +153,7 @@ body {
 }
 
 .highlight {
-    color: var(--highlight-pink);
+    color: var(--highlight-purple);
 }
 
 .hero-subtitle {
@@ -187,12 +187,12 @@ body {
 }
 
 .btn-primary {
-    background: var(--highlight-pink);
+    background: var(--highlight-purple);
     color: #1f2937;
 }
 
 .btn-primary:hover {
-    background: var(--primary-pink);
+    background: var(--primary-purple);
     color: white;
 }
 
@@ -204,7 +204,7 @@ body {
 
 .btn-secondary:hover {
     background: white;
-    color: var(--primary-pink);
+    color: var(--primary-purple);
 }
 
 .hero-image {
@@ -218,11 +218,11 @@ body {
     height: 380px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid var(--highlight-pink);
-    box-shadow: 0 4px 24px rgba(236, 72, 153, 0.15);
+    border: 5px solid var(--highlight-purple);
+    box-shadow: 0 4px 24px rgba(139, 92, 246, 0.15);
     display: block;
     margin: 0 auto;
-    background: var(--light-pink);
+    background: var(--light-purple);
 }
 
 /* Section Styles */
@@ -275,7 +275,7 @@ section {
 .stat h3 {
     font-size: 2rem;
     font-weight: 700;
-    color: var(--primary-pink);
+    color: var(--primary-purple);
     margin-bottom: 0.5rem;
 }
 
@@ -321,7 +321,7 @@ section {
 }
 
 .education-item .date {
-    color: var(--primary-pink);
+    color: var(--primary-purple);
     font-weight: 500;
 }
 
@@ -386,7 +386,7 @@ section {
     position: absolute;
     width: 20px;
     height: 20px;
-    background: var(--primary-pink);
+    background: var(--primary-purple);
     border-radius: 50%;
     top: 50%;
     transform: translateY(-50%);
@@ -408,7 +408,7 @@ section {
 }
 
 .company {
-    color: var(--primary-pink);
+    color: var(--primary-purple);
     font-weight: 500;
     display: block;
     margin-bottom: 0.25rem;
@@ -455,7 +455,7 @@ section {
 
 .project-image {
     height: 200px;
-    background: linear-gradient(135deg, var(--primary-pink) 0%, var(--secondary-pink) 100%);
+    background: linear-gradient(135deg, var(--primary-purple) 0%, var(--secondary-purple) 100%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -523,7 +523,7 @@ section {
 }
 
 .skill-tag {
-    background: var(--primary-pink);
+    background: var(--primary-purple);
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 25px;
@@ -533,7 +533,7 @@ section {
 }
 
 .skill-tag:hover {
-    background: var(--dark-pink);
+    background: var(--dark-purple);
 }
 
 /* Contact Section */
@@ -574,7 +574,7 @@ section {
 }
 
 .contact-item i {
-    color: var(--primary-pink);
+    color: var(--primary-purple);
     font-size: 1.25rem;
     width: 20px;
 }
@@ -610,7 +610,7 @@ section {
     display: flex;
     align-items: center;
     gap: 1rem;
-    color: var(--primary-pink);
+    color: var(--primary-purple);
     font-weight: 500;
     text-decoration: none;
     transition: color 0.3s;
@@ -619,16 +619,16 @@ section {
 
 .linkedin-link i {
     font-size: 1.25rem;
-    color: var(--primary-pink);
+    color: var(--primary-purple);
     min-width: 20px;
 }
 
 .linkedin-link:hover {
-    color: var(--dark-pink);
+    color: var(--dark-purple);
 }
 
 .linkedin-link:hover i {
-    color: var(--dark-pink);
+    color: var(--dark-purple);
 }
 
 /* Footer */
@@ -785,19 +785,19 @@ html {
 }
 
 .course-tag {
-    background: var(--primary-pink);
+    background: var(--primary-purple);
     color: white;
     padding: 0.4rem 1.1rem;
     border-radius: 20px;
     font-size: 1rem;
     font-weight: 500;
-    box-shadow: 0 2px 8px rgba(236, 72, 153, 0.08);
+    box-shadow: 0 2px 8px rgba(139, 92, 246, 0.08);
     transition: background 0.3s;
     margin-bottom: 0.5rem;
 }
 
 .course-tag:hover {
-    background: var(--dark-pink);
+    background: var(--dark-purple);
 }
 
 .coursework-list {

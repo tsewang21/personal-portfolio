@@ -22,13 +22,13 @@ body {
     padding: 0 20px;
 }
 
-/* Purple Color Scheme */
+/* Lavender Purple Color Scheme */
 :root {
-    --primary-purple: #8b5cf6;
-    --secondary-purple: #a78bfa;
-    --highlight-purple: #c4b5fd;
-    --light-purple: #f3f4f6;
-    --dark-purple: #7c3aed;
+    --primary-purple: #d7bde2;
+    --secondary-purple: #e8d5ed;
+    --highlight-purple: #f4ecf7;
+    --light-purple: #faf8fb;
+    --dark-purple: #c19bd1;
 }
 
 /* Navigation */
@@ -219,7 +219,7 @@ body {
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid var(--highlight-purple);
-    box-shadow: 0 4px 24px rgba(139, 92, 246, 0.15);
+    box-shadow: 0 4px 24px rgba(215, 189, 226, 0.15);
     display: block;
     margin: 0 auto;
     background: var(--light-purple);
@@ -791,7 +791,7 @@ html {
     border-radius: 20px;
     font-size: 1rem;
     font-weight: 500;
-    box-shadow: 0 2px 8px rgba(139, 92, 246, 0.08);
+    box-shadow: 0 2px 8px rgba(215, 189, 226, 0.08);
     transition: background 0.3s;
     margin-bottom: 0.5rem;
 }

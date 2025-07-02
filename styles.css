@@ -171,8 +171,12 @@ body {
 }
 
 .hero-buttons {
-    display: flex;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    grid-template-rows: 1fr 1fr !important;
     gap: 1rem;
+    max-width: 500px;
+    width: 100%;
 }
 
 .btn {
@@ -698,8 +702,13 @@ section {
     }
 
     .hero-buttons {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        grid-template-rows: 1fr 1fr !important;
         justify-content: center;
-        flex-wrap: wrap;
+        max-width: 400px;
+        margin: 0 auto;
+        width: 100%;
     }
 
     .about-content {
